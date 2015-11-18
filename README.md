@@ -1,0 +1,50 @@
+ 
+<!DOCTYPE html>
+<html> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<title>上网123</title> 
+<style> 
+.box{width:60%; height:200px; border:1px solid #F00; margin:0 auto;  } 
+body{font-size:24px; word-spacing:2em;}
+a:link{text-decoration:none; color:black;}
+a:hover {text-decoration:none; color:red;}
+/*a:active { text-decoration:line-through;   color: blue;}*/
+
+</style> 
+</head>
+
+<body> 
+<div class="box">
+
+<a href="http://www.mitbbs.com/" target="_blank">未名空间</a>
+<a href="http://www.popyard.org/"  target="_blank">八卦</a>
+<a href="http://www.chinasmile.net/forums/forumdisplay.php?f=32"  target="_blank">华枫论坛</a>
+<a href="http://www.rolia.net/zh/"  target="_blank">相约加拿大</a>
+<a href="http://www.6park.com/us.shtml"  target="_blank">留园</a>
+<a href="http://www.edmontonchina.com/index.html"  target="_blank">埃德蒙顿华人社区</a><br />
+<a href="http://www.saskey.com/"  target="_blank">萨省华人网</a>
+<a href="http://www.bcbay.com/" target="_blank">温哥华港湾</a> 
+<a href="http://www.mitbbs.com/" target="_blank">Mitbbs.com</a> 
+<a href="http://www.chinasmile.net/forums/forumdisplay.php?f=32" target="_blank">Chinasmile.net</a> 
+<a href="http://news.iask.ca/" target="_blank">Canadameet.com</a> 
+<a href="http://www.popyard.org/" target="_blank">Popyard.org</a> 
+<a href="http://www.backchina.com/" target="_blank">Backchina.com</a>
+<a href="http://www.edmontonchina.com/index.html" target="_blank">Edmontonchina.com</a> 
+<a href="http://www.saskey.com/" target="_blank">Saskey.com</a> 
+<a href="http://www.6park.com/us.shtml" target="_blank">6park.com</a> 
+<a href="http://www.wenxuecity.com/" target="_blank">Wenxuecity.com</a> 
+<a href="http://www.comefromchina.com/index.html" target="_blank">Comefromchina.com</a>
+
+<a href="http://calgarynewlife.com/portal.php" target="_blank">Calgarynewlife.com</a> 
+<a href="http://www.houstonbbs.com/" target="_blank">Houstonbbs.com</a> 
+<a href="http://merryhouston.com/"_blank">Merryhouston.com</a> 
+<a href="http://www.rolia.net/zh/" target="_blank">Rolia.net</a> 
+<a href="http://www.creaders.net/" target="_blank">Creaders.net</a>
+<a href="http://www.ourdream.ca/forums/portal.php" target="_blank">Ourdream.ca</a> 
+<a href="http://www.freeoz.org/ibbs/forum.php" target="_blank">Freeoz.org</a> 
+<a href="http://www.oursteps.com.au/bbs/portal.php" target="_blank">Oursteps.com.au</a> 
+
+</div> 
+</body> 
+</html> 
